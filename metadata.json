@@ -1,0 +1,5 @@
+{
+  "name": "Fusion Admin Dashboard",
+  "description": "A professional full-stack admin dashboard built with React, Tailwind CSS, and Express, optimized for Builder.io Fusion integration.",
+  "requestFramePermissions": []
+}
